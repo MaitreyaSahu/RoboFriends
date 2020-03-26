@@ -1,2 +1,0 @@
-# RoboFriends
-Your Robo Friends
